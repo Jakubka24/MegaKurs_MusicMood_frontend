@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+}
+
+
+.background .addSong {
+    background-image: url("../../pictures/guitar-6786508_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.addSong form {
+    text-align: center;
+    margin: 10px 10px;
+    padding: 15px 0;
+    width: 360px;
+    height: 480px;
+    background-size: cover;
+    border: 2px solid gray;
+    border-radius: 25px;
+    background: #181717;
+    margin-bottom: 1px;
+}
+
+
+.addSong form input {
+    display: flex;
+    border-radius: 25px;
+    width: 150px;
+    height: 30px;
+    border: black;
+    margin-left: 90px;
+    padding-right: 30px;
+}
+
+.addSong input {
+    color: black;
+    margin-top: 15px;
+}
+
+
+.addSong p {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #ada8a8;
+    line-height: normal;
+    font-size: small;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.background h1 {
+    padding-top: 25px;
+}
+
+.addSong {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.addSong button {
+    border-radius: 25px;
+    width: 184px;
+    height: 32px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: white;
+    background-color: #9a9595;
+    margin-bottom: 30px;
+
+}
+
+.addSong p.inputDesc {
+    padding: 2px 0;
+    font-size: 10px;
+    justify-content: center;
+    text-transform: uppercase;
+    line-height: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.addSong .message {
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    padding: 5px 20px;
+    line-height: 25px;
+}
+
+.addSong select {
+    padding: 2px 0;
+    font-size: 10px;
+    justify-content: center;
+    text-transform: uppercase;
+    line-height: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    width: 184px;
+    height: 32px;
+    border-radius: 25px;
+    text-align: center;
+}

@@ -1,0 +1,53 @@
+.backgroundContact {
+    background-image: url("../../pictures/cable-4839694_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.backgroundContact h1 {
+    padding-top: 30px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    padding-right: 40px;
+}
+
+
+.contact ul {
+    text-decoration: none;
+    list-style: none;
+    margin-top: 45px;
+}
+
+.contact img {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin-right: 25px;
+}
+
+
+.contact li {
+    display: flex;
+    color: white;
+    padding: 10px 10px;
+    height: 50px;
+    line-height: 45px;
+    font-family: 'Oleo Script', cursive;
+    font-weight: lighter;
+    font-size: 23px;
+}
+
+.contact b {
+    margin-right: 5px;
+    font-family: 'Oleo Script', cursive;
+    font-weight: lighter;
+}
+
+.contactFooter {
+    margin-top: 396px;
+}

@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+
+}
+
+div h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 0 0;
+    padding: 0 0;
+    color: #d9d6d6;
+    font-size: 40px;
+}
+
+header {
+    padding: 10px 10px;
+}
+
+.login {
+    margin-top: -60px;
+    display: flex;
+    justify-content: end;
+    font-size: small;
+    color: #d5bf2e;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    font-family: 'Source Serif Pro', serif;
+    font-weight: lighter;
+    position: absolute;
+    bottom: 20px;
+    left: 46%;
+}
+
+a:hover {
+    color: #94840e;
+    transition: color 0.7s cubic-bezier(0.33, 1, 0.68, 1);
+}
+
+
+nav a {
+    text-decoration: none;
+    color: #d9d6d6;
+    font-family: 'Source Serif Pro', serif;
+    font-weight: lighter;
+    margin-top: 55px;
+    transition: color 0.8s cubic-bezier(0.32, 0, 0.67, 0);
+    line-height: 1em;
+    font-size: 19px;
+    position: static;
+}
+
+.background {
+    background-image: url("../../pictures/backgroundImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+nav a:hover {
+    color: #94840e;
+    transition: color 0.7s cubic-bezier(0.33, 1, 0.68, 1);
+}
+
+
+.lds-ring {
+    display: flex;
+    text-align: center;
+}
+
+nav {
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: #fff;
+    border: 1px solid #d5d9d9;
+    border-radius: 8px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    color: #0f1111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Amazon Ember", sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    padding: 0 10px 0 11px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: 80px;
+}
+
+button:hover {
+    background-color: #f7fafa;
+}
+
+button:focus {
+    border-color: #008296;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    outline: 0;
+}
+
+p {
+    font-family: 'Oleo Script', cursive;
+    font-weight: lighter;
+}
+

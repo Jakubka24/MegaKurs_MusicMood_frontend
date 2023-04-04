@@ -1,0 +1,97 @@
+.background .rollSong {
+    background-image: url("../../pictures/earphones-4839691_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.rollSong h1 {
+    margin-bottom: 30px;
+}
+
+.rollSong {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.rollSong form {
+    text-align: center;
+    padding: 35px 0;
+    width: 300px;
+    height: 370px;
+    background-size: cover;
+    border: 2px solid gray;
+    border-radius: 25px;
+    background: #181717;
+    margin-top: 30px;
+}
+
+.rollSong select {
+    text-align: center;
+    width: 160px;
+    height: 30px;
+    font-size: 13px;
+    border-radius: 25px;
+
+
+}
+
+.rollSong button {
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: white;
+    border-radius: 25px;
+    width: 100px;
+    height: 40px;
+    background-color: #9a9595;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    line-height: 12px;
+
+}
+
+.rollSong p {
+    color: white;
+    padding: 0 0;
+    margin: 10px 10px;
+    font-family: 'Source Serif Pro', serif;
+    font-weight: bold;
+}
+
+
+.rollSong .songLink {
+    position: sticky;
+    left: 46.5%;
+    top: 42%;
+    margin-top: 10px;
+    color: white;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.rollSong select {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bolder;
+    padding-left: 10px;
+}
+
+.rollSong button .addToFavourites {
+
+}
+
+.removeBtn {
+    font-size: 9px;
+    font-weight: bold;
+    line-height: 8px;
+    margin-left: 15px;
+    width: 45px;
+    height: 20px;
+    padding: 0 0;
+    background-color: gray;
+    color: black;
+
+
+}

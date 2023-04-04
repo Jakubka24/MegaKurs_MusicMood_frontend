@@ -1,0 +1,88 @@
+
+.backgroundAboutMe {
+    background-image: url("../../pictures/microphone-1102739_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.aboutMe div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 80px;
+    background-image: url("./Me.jpg");
+    width: 230px;
+    height: 230px;
+    border: none;
+    border-radius: 50%;
+    background-size: cover;
+}
+
+.aboutMe div p {
+    color: white;
+    width: 350px;
+    text-align: start;
+    margin-left: 280px;
+    line-height: 32px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.hello {
+    margin-left: 310px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.aboutMe h1 {
+    padding-top: 30px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    padding-right: 40px;
+}
+
+
+.contact ul {
+    text-decoration: none;
+    list-style: none;
+    margin-top: 45px;
+}
+
+.contact img {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    margin-right: 25px;
+}
+
+
+.contact li {
+    display: flex;
+    color: white;
+    padding: 5px 5px;
+    height: 50px;
+    width: 500px;
+    line-height: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+.contact b {
+    margin-right: 5px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+
+}
+
+div .contact {
+    background: none;
+    margin-left: 353px;
+
+}

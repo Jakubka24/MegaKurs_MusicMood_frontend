@@ -1,0 +1,18 @@
+.background .howItsWorking {
+    background-image: url("../../pictures/music-3620830_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.howItsWorking h1 {
+    padding: 45px 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 26px;
+    position: absolute;
+    top: 30px;
+    font-family: 'Source Serif Pro', serif;
+}
+

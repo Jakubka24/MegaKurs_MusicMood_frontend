@@ -1,0 +1,164 @@
+
+.mainWindow {
+    display: flex;
+    justify-content: center;
+}
+
+
+.mainWindow form {
+    text-align: center;
+    margin: 10px 20px;
+    padding: 15px 0;
+    width: 360px;
+    height: 520px;
+    background-size: cover;
+    border: 2px solid white;
+    border-radius: 25px;
+    background: #181717;
+    margin-bottom: 29px;
+    border: 2px solid gray;
+
+}
+
+.logBgc {
+    background-image: url("../../pictures/microphone-1172260_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.logBgc input {
+    display: flex;
+    border-radius: 25px;
+    width: 180px;
+    height: 30px;
+    border: black;
+    margin-left: 90px;
+    text-align: center;
+    font-size: 15px;
+}
+
+
+
+
+.logBgc button {
+    border-radius: 25px;
+    width: 184px;
+    height: 32px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: white;
+    background-color: #9a9595;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+.logBgc .logInput, .registerInput {
+    padding: 2px 0;
+    font-size: 10px;
+    justify-content: start;
+    text-transform: uppercase;
+    line-height: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #ada8a8;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.logBgc .register {
+    padding: 2px 0;
+    font-size: 10px;
+    justify-content: start;
+}
+
+
+.logBgc h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.message {
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    padding: 5px 10px;
+    line-height: 25px;
+    font-family: 'Source Serif Pro', serif;
+}
+
+a.login {
+    color: #a18f11;
+    font-size: 15px;
+    left: 91%;
+    width: 125px;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    top: 80px;
+
+}
+
+.logBgc button.passwordBtn {
+    width: 25px;
+    height: 25px;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    padding: 0 0;
+    margin-top: 0;
+    margin-bottom: 1px;
+    margin-left: 235px;
+    background: none;
+    position: absolute;
+
+}
+
+.loginPassword img {
+    width: 27px;
+    height: 27px;
+}
+
+.loginPassword {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+}
+
+
+.registerPassword {
+    position: sticky;
+}
+
+
+.registerPassword button {
+    position: absolute;
+    right: 95px;
+    top: 34px;
+}
+
+.registerPassword img {
+    width: 27px;
+    height: 27px;
+}
+
+
+.registerConfirmPassword {
+    position: sticky;
+}
+
+
+.registerConfirmPassword button {
+    position: absolute;
+    right: 95px;
+    top: 34px;
+}
+
+.registerConfirmPassword img {
+    width: 27px;
+    height: 27px;
+}
+
