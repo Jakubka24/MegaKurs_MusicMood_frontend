@@ -12,7 +12,8 @@ export const AboutMeView = () => {
                     consectetur culpa cumque ea fuga hic ipsam nostrum numquam officiis praesentium quasi quia,
                     reiciendis similique soluta suscipit unde.lore
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita facilis harum illo maxime vero
-                    voluptatum!
+                    voluptatum!orem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium animi architecto beatae
+                    consectetur.
                 </p>
             </div>
             <div className="contact">
