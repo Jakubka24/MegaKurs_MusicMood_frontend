@@ -7,7 +7,7 @@
 * [Demo movie](#demo-movie)
 * [Get started](#get-started)
 * [Technologies used](#technologies-used)
-
+* [Copyright](#copyright)
 
 ## General info 
 Firstly, I just want to mark, that it is my first independent application which I made within "MegaKurs". I tried to use all technologies that I learned durning 
@@ -21,19 +21,16 @@ most popular music generes. You can also add your own song to database. That giv
 In future there will be few new things for registered users.
 
 ## Demo movie 
-
 https://user-images.githubusercontent.com/123602747/229549512-53f5a322-9f22-484e-8832-7bb5deb3c9ff.mp4
 
-
-
 ## Get started 
-1. Download backend and frontend to the same folder
-2. Run your IDE with Node.js
-3. Install required node modules (run npm start)
-4. Write in terminal "npm install -g ts-node
-5. (Optionaly) You can download "data" folder from "https://files.fm/u/88amry98b" and switch with data folder from xampp\mysql
-6. Run Apache and MySql (XAMPP )
-7. Enter in your explorer "http://localhost:3000/"
+1. Download backend and frontend to the same folder.
+2. Run your IDE with Node.js.
+3. Install required node modules (run npm start).
+4. Write in terminal "npm install -g ts-node.
+5. Download "data" folder from "https://files.fm/u/88amry98b" and switch with "data" folder from xampp\mysql.
+6. Run Apache and MySql (XAMPP).
+7. Enter in your explorer "http://localhost:3000/".
 8. Enjoy the Music!
 
 ## Technologies used 
@@ -45,3 +42,10 @@ https://user-images.githubusercontent.com/123602747/229549512-53f5a322-9f22-484e
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## Copyright
+In this project I used imaages and icons based on free license. 
+Also I bought rights to "Music Mood" logo via Canva. 
+
+All imagages are downloaded from "https://pixabay.com/pl/" 
+<br>
+All icons are downloaded from "https://www.flaticon.com/"
