@@ -1,4 +1,4 @@
-# MusicMood-backend! 🎸
+# MegaKurs_MusicMood_frontend! 🎸
 
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/123602747/229378271-8b56bad6-7ae7-46aa-bc9c-3dc524211c07.png"/></div>
 
