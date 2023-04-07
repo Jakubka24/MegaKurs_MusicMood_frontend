@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/123602747/229549512-53f5a322-9f22-484e
 
 ## Get started 
 1. Download backend and frontend to the same folder.
-2. Run your IDE with Node.js.
+2. Run your IDE with Node.js. Make sure that the name of folders are "backend" and "frontend".
 3. Install required node modules (run npm start).
 4. Write in terminal "npm install -g ts-node.
 5. Download "data" folder from "https://files.fm/u/88amry98b" and switch with "data" folder from xampp\mysql.
