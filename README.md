@@ -44,6 +44,7 @@ https://user-images.githubusercontent.com/123602747/229549512-53f5a322-9f22-484e
 
 ## Copyright
 In this project I used imaages and icons based on free license. 
+<br>
 Also I bought rights to "Music Mood" logo via Canva. 
 
 All imagages are downloaded from "https://pixabay.com/pl/" 
