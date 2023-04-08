@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/123602747/229549512-53f5a322-9f22-484e
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## Copyright
-In this project I used imaages and icons based on free license. 
+In this project I used images and icons based on free license. 
 <br>
 Also I bought rights to "Music Mood" logo via Canva. 
 
