@@ -3,7 +3,7 @@
     "baseUrl": ".",
     "paths": {
       "types": [
-        "../backend/types"
+        "../MegaKurs_MusicMood_backend/types"
       ]
     }
   }
