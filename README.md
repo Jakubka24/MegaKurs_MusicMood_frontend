@@ -21,7 +21,7 @@ most popular music generes. You can also add your own song to database. That giv
 In future there will be few new things for registered users.
 
 ## Demo movie 
-https://user-images.githubusercontent.com/123602747/229549512-53f5a322-9f22-484e-8832-7bb5deb3c9ff.mp4
+https://github.com/Jakubka24/MegaKurs_MusicMood_backend/assets/123602747/7b0541da-4f76-4886-8f81-ed6448e38cc1
 
 ## Get started 
 1. Download backend and frontend to the same folder.
